@@ -1,5 +1,5 @@
 # snake-game
-A simple snake game in java - Well documented
+A simple snake game in java
 
 Github pages: https://harshalparmar.github.io/snake-game/
 
